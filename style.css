@@ -14,18 +14,24 @@ H1 {
   font-weight: 800;
 }
 
+button {
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  background-color: inherit;
+  border-radius: 10px;
+  border-color: white;
+}
+
+h2 {
+  text-align: center;
+  font-size: 900 px;
+}
+
 footer {
   bottom: 0px;
   position: fixed;
   width: 100%;
   text-align: center;
   visibility: visible;
-}
-button {
-  padding: 10px;
-  margin-bottom: 10px;
-  font-weight: 600;
-}
-h2 {
-  text-align: center;
 }
