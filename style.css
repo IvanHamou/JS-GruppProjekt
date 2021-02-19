@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  text-align: center;
+  background-color: rgb(250, 140, 140);
+  padding: 10px;
+}
+H1 {
+  padding: 10px;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+footer {
+  bottom: 0px;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  visibility: visible;
+}
+button {
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+h2 {
+  text-align: center;
+}
