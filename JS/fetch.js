@@ -6,3 +6,6 @@ async function fetchNorris() {
 }
 
 fetchNorris();
+
+const $submit = $("#button");
+const $factDiv = $("#fact1");
