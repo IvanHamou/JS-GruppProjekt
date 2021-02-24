@@ -7,3 +7,5 @@ const executeSearch = () => {
     return renderNorris(values);
   });
 };
+
+$submit.click(executeSearch);
