@@ -6,7 +6,6 @@ const renderNorris = (values) => {
     $fact.append(factContent);
   });
   $fact.append(`<h2>${value}</h2>`);
-  //$icon.append(`<div>${icon_url[0]}</div>`);
 };
 
 const createNorrisHTML = (value) => {
